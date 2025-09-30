@@ -11,4 +11,4 @@ We focus on three key areas:
 
 By understanding these Darwinian-like evolutionary processes, we aim to develop strategies that **redirect selection pressures** to reduce harmful mutations and ultimately **prevent cancer before it starts**.  
 
-This GitHub organisation hosts our computational tools, analysis pipelines, and models that support our mission to decode the evolutionary dynamics of normal and pre-cancerous tissues.  
+This GitHub organisation hosts our computational tools, analysis pipelines, additional publication support files and models that support our mission to decode the evolutionary dynamics of normal and pre-cancerous tissues.  
